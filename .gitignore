@@ -1,0 +1,11 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Configuration files (contains sensitive cookies)
+config.json
+
+# IDEs
+.vscode/
+.idea/
